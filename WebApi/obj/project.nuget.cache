@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LFKjtj0ZTaczzsn9hPFj8VGMhaiRxFg7FRE9mkMGx/Kj986XUXw5qcIo4IGBm3Fjk3OhzjHgn7nmTIWVwQ3hfA==",
+  "success": true,
+  "projectFilePath": "D:\\Projeto NET - Core\\Twitch_NetCore\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heyme\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\heyme\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\heyme\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.5\\swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
+    "C:\\Users\\heyme\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "C:\\Users\\heyme\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.5\\swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
+    "C:\\Users\\heyme\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.5\\swashbuckle.aspnetcore.swaggerui.6.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
